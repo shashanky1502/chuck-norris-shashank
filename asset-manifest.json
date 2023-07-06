@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-shashank/static/css/main.a6ac9bee.css",
+    "main.js": "/chuck-norris-shashank/static/js/main.a45c686a.js",
+    "index.html": "/chuck-norris-shashank/index.html",
+    "main.a6ac9bee.css.map": "/chuck-norris-shashank/static/css/main.a6ac9bee.css.map",
+    "main.a45c686a.js.map": "/chuck-norris-shashank/static/js/main.a45c686a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ac9bee.css",
+    "static/js/main.a45c686a.js"
+  ]
+}
